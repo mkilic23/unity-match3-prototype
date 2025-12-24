@@ -97,7 +97,6 @@ public class BoardGenerator : MonoBehaviour
 
         if (!TryFindTilePos(selected, out Vector2Int a) || !TryFindTilePos(t, out Vector2Int b))
 {
-    // Grid senkron kaçtıysa otomatik toparla ve tekrar dene
     RebuildGridFromScene();
 
     if (!TryFindTilePos(selected, out a) || !TryFindTilePos(t, out b))
