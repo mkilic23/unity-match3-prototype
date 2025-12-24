@@ -2,6 +2,11 @@
 
 A lightweight Match-3 prototype built in Unity (2D). The project showcases core Unity workflow (prefabs, scripts, inspector-driven configuration) and basic game-system logic (grid, input, match resolution, scoring).
 
+
+## Screenshot
+![Gameplay](images/gameplay.png)
+
+
 ## Features
 - 8x8 board generation with configurable tile kinds/colors
 - Click-to-select and adjacent swap
