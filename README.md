@@ -34,9 +34,4 @@ A lightweight Match-3 prototype built in Unity (2D). The project showcases core 
 - UI uses **Screen Space - Overlay** Canvas and **TextMeshPro**.
 - The initial board may contain matches; the resolver clears them on start (scoring begins after the initial cleanup).
 
-## Demo
-Add a short GIF or video here:
-- `demo.gif`
 
-Example:
-![Demo](demo.gif)
