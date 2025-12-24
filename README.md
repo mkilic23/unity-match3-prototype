@@ -3,7 +3,7 @@
 A lightweight Match-3 prototype built in Unity (2D). The project showcases core Unity workflow (prefabs, scripts, inspector-driven configuration) and basic game-system logic (grid, input, match resolution, scoring).
 
 
-## Screenshot
+## Match-3 Prototype
 ![Gameplay](images/gameplay.png)
 
 
